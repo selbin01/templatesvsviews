@@ -1,0 +1,6 @@
+#Wed, 10 Aug 2016 21:51:19 -0500
+
+info.app.version=0.1
+info.app.name=templatesvsviews
+grails.env=production
+info.app.grailsVersion=3.1.9

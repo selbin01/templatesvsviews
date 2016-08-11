@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/templatesvsviews.iml" filepath="$PROJECT_DIR$/.idea/modules/templatesvsviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/templatesvsviews_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/templatesvsviews_integrationTest.iml" group="templatesvsviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/templatesvsviews_main.iml" filepath="$PROJECT_DIR$/.idea/modules/templatesvsviews_main.iml" group="templatesvsviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/templatesvsviews_test.iml" filepath="$PROJECT_DIR$/.idea/modules/templatesvsviews_test.iml" group="templatesvsviews" />
+    </modules>
+  </component>
+</project>
